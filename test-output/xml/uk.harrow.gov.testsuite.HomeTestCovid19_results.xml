@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomeTestCovid19"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.824">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToCovid19Feature" time="0.824" classname="uk.harrow.gov.testsuite.HomeTestCovid19" />
+      
+</testsuite>
